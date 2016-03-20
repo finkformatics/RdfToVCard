@@ -1,0 +1,16 @@
+{
+    "name": "foaf",
+    "prefix": "http://xmlns.com/foaf/0.1/",
+    "entityName": "Person",
+    "attributes": {
+        "nickname": "nick",
+        "firstname": "firstName",
+        "lastname": "familyName",
+        "url": "homepage",
+        "phone": "phone",
+        "fullname": "name",
+        "birthday": "birthday",
+        "email": "mbox",
+        "photo": "depiction"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "vcard",
+    "prefix": "http://www.w3.org/2006/vcard/ns#",
+    "entityName": "VCard",
+    "attributes": {
+        "nickname": "nickname",
+        "firstname": "given-name",
+        "lastname": "family-name",
+        "url": "hasUrl",
+        "fullname": "fn",
+        "birthday": "bday",
+        "street": "street-address",
+        "locality": "locality",
+        "region": "region",
+        "country": "country-name",
+        "postal-code": "postal-code",
+        "photo": "hasPhoto",
+        "phone": "hasTelephone",
+        "email": "hasEmail",
+        "geo": "hasGeo",
+        "title": "title",
+        "role": "role",
+        "logo": "hasLogo",
+        "organisation": "organization-name",
+        "categories": "category",
+        "notes": "note"
+    }
+}
